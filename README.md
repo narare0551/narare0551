@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Data Science/ML is vast and growing at an exponential rate; This github is my attempt to figure some of it and share my knowledge
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=Time-Series)](https://github.com/hamzafarooq/Time-Series)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
+
+
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzafarooq&show_icons=true&theme=radical)
+

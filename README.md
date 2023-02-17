@@ -1,5 +1,5 @@
 
-## I set my daily goals only on Monday
+## Vist my web portfolio https://narare0551.github.io/naraekangportfolio/
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<XGB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<LGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
